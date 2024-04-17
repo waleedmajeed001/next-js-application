@@ -7,11 +7,11 @@ function Header() {
          <Link href="/">Home</Link>
          <Link href="/dashboard">Dashboard</Link>
          <Link href="/blog">Blog</Link>
-         <Link href="/contact-us">Contact-us</Link>
+         <Link href="/contactus">Contact-us</Link>
          <Link href="/dashboard/analytics">Analytics</Link>
          <Link href="/dashboard/settings">Settings</Link>
          <Link href="/dashboard/settings/Password">Password</Link>
-         <Link href="/dashboard/settings/Profile">Profile</Link>
+         <Link href="/dashboard/settings/Info">Info</Link>
     </div>
   );
 }
