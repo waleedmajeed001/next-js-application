@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Dashboard() {
   return(
   <main className="p-5">
-  <p className="font-bold"> This Dashboard Page🤗 </p>
+  <p className="font-bold"> This is Dashboard Page🤗 </p>
   <div className="flex gap-5 flex-col mt-5">
     <Link href={"/dashboard/analytics"}>Analytics</Link>
     <Link href={"/dashboard/settings"}>Settings</Link>
